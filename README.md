@@ -1,11 +1,11 @@
 # Climate Spiral Matplotlib
 Climate Spiral using matplotlib.
 
-![](images\plotcircles.png)
+![](images/plotcircles.png)
 
 This is the code that accompanies the blog post here:
 
-[Climate Spiral using Matplotlib](http://medium.com/)
+[Visualising Time Series data With Spirals](https://towardsdatascience.com/visualising-time-series-data-with-spirals-efe0cd9f4c5)
 
 ## Notebook
 There is a useful jupyter notebook that helps with the explanation of how this works:
